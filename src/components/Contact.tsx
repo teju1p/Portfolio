@@ -86,7 +86,7 @@ const Contact = () => {
               <h4 className="font-semibold text-gray-900 mb-4">Connect With Me</h4>
               <div className="flex space-x-4">
                 <a
-                  href="https://github.com/tejaswinipenneni"
+                  href="https://github.com/teju1p"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-white rounded-lg flex items-center justify-center text-gray-600 hover:text-blue-600 hover:bg-blue-50 transition-all duration-300 shadow-sm"
