@@ -1,4 +1,4 @@
-import React from 'react';
+ooimport React from 'react';
 import { Heart, Coffee, Code, Palette } from 'lucide-react';
 
 const About = () => {
@@ -38,7 +38,7 @@ const About = () => {
           <div className="space-y-8">
             <div className="prose prose-lg max-w-none">
               <p className="text-gray-700 leading-relaxed mb-6">
-                Hello! I'm Tejaswini Penneni, a full-stack developer.
+                Hello! I'm Tejaswini Penneni, a Senior Software developer.
                I specialize in building robust, 
                 scalable enterprise applications using Java and modern web technologies. 
                 My expertise spans the entire development lifecycle, from requirements 
