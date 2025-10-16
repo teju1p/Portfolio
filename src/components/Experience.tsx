@@ -1,34 +1,34 @@
-import React from 'react';
+oimport React from 'react';
 import { Calendar, MapPin, Building } from 'lucide-react';
 
 const Experience = () => {
   const experiences = [
     {
-      title: 'Full Stack Java Developer',
+      title: 'Senior Software Developer',
       company: 'OEE Intellisuite',
       location: 'La Crosse, WI',
       period: 'Apr 2023 - Present',
     },
      {
-    title: 'Full Stack Java Developer',
+    title: 'Senior Software Developer',
     company: 'Maryland Treatment Centers',
     location: 'Maryland, USA',
     period: 'Jun 2021 - Mar 2023',
   },
   {
-    title: 'Java Full Stack Developer',
+    title: 'Software Developer',
     company: 'Big Lots',
     location: 'Columbus, OH',
     period: 'Dec 2019 - Jun 2021',
   },
   {
-    title: 'Java Full Stack Developer',
+    title: 'Software Developer',
     company: 'Office Depot',
     location: 'Boca Raton, FL',
     period: 'Mar 2018 - Nov 2019',
   },
   {
-    title: 'Java Full Stack Developer',
+    title: 'Software Developer',
     company: 'Tvisha Technologies',
     location: 'Hyderabad, IN',
     period: 'Mar 2017 - Feb 2018',
